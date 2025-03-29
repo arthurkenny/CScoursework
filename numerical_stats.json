@@ -1,0 +1,52 @@
+{
+    "Age": {
+        "mean": 40.3,
+        "min": 9.0,
+        "max": 69.0
+    },
+    "Sleep duration": {
+        "mean": 7.5,
+        "min": 5.0,
+        "max": 10.0
+    },
+    "Sleep efficiency": {
+        "mean": 0.8,
+        "min": 0.5,
+        "max": 1.0
+    },
+    "REM sleep percentage": {
+        "mean": 22.6,
+        "min": 15.0,
+        "max": 30.0
+    },
+    "Deep sleep percentage": {
+        "mean": 52.8,
+        "min": 18.0,
+        "max": 75.0
+    },
+    "Light sleep percentage": {
+        "mean": 24.6,
+        "min": 7.0,
+        "max": 63.0
+    },
+    "Awakenings": {
+        "mean": 1.7,
+        "min": 0.0,
+        "max": 4.0
+    },
+    "Caffeine consumption": {
+        "mean": 22.3,
+        "min": 0.0,
+        "max": 200.0
+    },
+    "Alcohol consumption": {
+        "mean": 1.1,
+        "min": 0.0,
+        "max": 5.0
+    },
+    "Exercise frequency": {
+        "mean": 1.8,
+        "min": 0.0,
+        "max": 5.0
+    }
+}
